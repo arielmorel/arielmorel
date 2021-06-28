@@ -2,7 +2,7 @@
 I am a software engineer from Dominican Republic
 - 🔭 Working on multiple project using Java, Android, React.
 - 🌱 Learning design patterns in depth
-- <br>
+<br>
 
 ## Connect with me
 
